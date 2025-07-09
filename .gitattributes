@@ -1,0 +1,8 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+All_bifunctionalised.json filter=lfs diff=lfs merge=lfs -text
+All_hets_by_hash.json filter=lfs diff=lfs merge=lfs -text
+All_monofunctionalised.json filter=lfs diff=lfs merge=lfs -text
+MoBiVic_by_hash.json filter=lfs diff=lfs merge=lfs -text
+MoBiVic.json filter=lfs diff=lfs merge=lfs -text
+vehicle_vectors_by_regid.json filter=lfs diff=lfs merge=lfs -text
+VEHICLe.json filter=lfs diff=lfs merge=lfs -text
