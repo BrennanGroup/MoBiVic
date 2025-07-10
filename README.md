@@ -26,7 +26,7 @@ To functionalise the VEHICLe heterocycles, separate sets of substituents were ch
 For each heterocycle in VEHICLe, all the available exit-vectors (C-H or N-H bonds) were identified (for example, in the figure below indole has 7 exit-vectors: 6 C-H bonds and 1 N-H bond). Each substituent was then considered sequentially, and bonded to each available exit vector on the heterocycle in turn, resulting in a set of singly functionalised heterocycles where every available substituent is bonded to every available exit-vector exactly once. For the example of indole below this generates 44 monofunctionalised heterocycles (42 with substituents bonded to carbona and 2 with substituents bonded to nitrogen). 
 
 <div style="text-align: center">
-<img src="assets/substituents.png" alt="The substituents used to functionalise the VEHICLe database" width="400"/>
+<img src="assets/Substituents.png" alt="The substituents used to functionalise the VEHICLe database" width="400"/>
 </div>
 
 This process was then applied again to each of the monofunctionalised heterocycles to generate a library of bifunctionalised heterocycles. The number of heterocycles in each library is given below.
